@@ -202,8 +202,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6219d1e65cffd8e4fb322e322269d870, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hp: 850
-  maxHp: 850
+  hp: 85
+  maxHp: 85
   unitType: 1
   unitName: "\uCE74\uBA5C\uB808\uC624"
   jumpmaxCount: 2

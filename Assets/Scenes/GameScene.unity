@@ -234,6 +234,7 @@ MonoBehaviour:
   IsGameOver: 0
   mainCamera: {fileID: 519420031}
   timerManager: {fileID: 1006054451}
+  StartTransform: {fileID: 0}
 --- !u!4 &376427833
 Transform:
   m_ObjectHideFlags: 0
@@ -455,7 +456,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 07221909247fa4eb09dcc45e6316a8ce, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 42364e66ceb4b674abdcb0a8118ad7ca, type: 3}
   m_Type: 3
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -975,7 +976,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b73265accab188e409461260602e7e36, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 23ca4cd57eec5164c9d84aa0050b3c59, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
